@@ -1,0 +1,4 @@
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/bin/Release/homework_1.exe
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Release/homework_1.csprojAssemblyReference.cache
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Release/homework_1.csproj.CoreCompileInputs.cache
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Release/homework_1.exe

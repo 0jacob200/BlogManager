@@ -1,0 +1,6 @@
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Debug/homework_1.csproj.CoreCompileInputs.cache
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/bin/Debug/homework_1.exe
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/bin/Debug/homework_1.pdb
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Debug/homework_1.csprojAssemblyReference.cache
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Debug/homework_1.exe
+/Users/yakovshumilov/CSharpProjects/homework_1/homework_1/obj/Debug/homework_1.pdb

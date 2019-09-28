@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{318D4FF7-A84C-4548-9E7A-60D19FE708AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="homework_1/Program.cs">
+    <Files>
+      <File FileName="homework_1/Program.cs" Line="234" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.homework__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../homework_1/Program.cs" line="119" offsetX="-1" offsetY="-1" expression="BlogManager" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
